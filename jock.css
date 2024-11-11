@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+    background-image:url("jock.jpg") ;
+   background-size:cover ;
+   background-position:center ;
+
+}
+#div_cho{
+    background-color: rgba(14, 59, 122, 0.91);
+    color:aliceblue;
+    border-radius:30px ;
+    padding: 120px;
+
+}
+#boott{
+height:80px ;
+width: 400px;
+background-color: rgba(39, 52, 169, 0.825);
+border: 0px;
+border-radius:30px ;
+color:aliceblue;
+}
+#neewboott{
+
+    height:80px ;
+width: 400px;
+background-color: rgba(221, 17, 64, 0.581);
+border: 0px;
+border-radius:30px ;
+color:aliceblue;}
